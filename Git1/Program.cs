@@ -12,6 +12,7 @@ namespace Git1
         {
             Console.WriteLine("Привет");
             Console.WriteLine("Изменения в программе");
+            Console.WriteLine("Арбуз");
         }
     }
 }
